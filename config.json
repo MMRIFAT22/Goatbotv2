@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "mueidmursalin123@gmail.com",
+    "password": "rifat2580@",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,30 +35,30 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "100051869042398"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "100051869042398"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
+  "nickNameBot": "MOMO NISHIMIYA",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
-  "insta": "no",
+  "authorName": "Mueid Mursalin Rifat",
+  "facebook2": "https://www.facebook.com/mueid.mursalin.rifat1",
+  "facebook": "https://www.facebook.com/mueid.mursalin.rifat1",
+  "email": "mueidmursalinr@gmail.com",
+  "replit": "https://replit.com/@mueidmursalinrifat",
+  "github": "https://github.com/rifat1haker",
+  "insta": "mueidmursalinrifat",
   "age": "18+",
-  "TG": "",
+  "TG": "mueidmursalinrifat",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
